@@ -1,0 +1,18 @@
+ttacodigo;ttadescricao;ttaatualiza;ttarelacidente;ttaativo
+1;Atropelamento de animal;N;(null);S
+12;Saída de Pista;N;(null);S
+11;Tombamento;N;(null);S
+2;Atropelamento de pessoa;N;(null);S
+3;Capotamento;N;(null);S
+4;Colisão com bicicleta;N;(null);S
+5;Colisão com objeto fixo;N;(null);S
+6;Colisão frontal;N;(null);S
+7;Colisão lateral;N;(null);S
+8;Colisão traseira;N;(null);S
+9;Incêndio;N;(null);S
+10;Colisão Transversal;N;(null);S
+13;Derramamento de Carga;N;(null);S
+14;Colisão com objeto móvel;N;(null);S
+15;Queda de motocicleta / bicicleta / veículo;N;(null);S
+16;Danos Eventuais;N;(null);S
+17;Não Informado;N;(null);N

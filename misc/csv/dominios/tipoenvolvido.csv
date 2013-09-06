@@ -1,0 +1,15 @@
+ttecodigo;ttedescricao;tteatualiza;tteativo
+1;Ciclista;N;N
+2;Condutor;N;S
+3;Passageiro;N;S
+4;Pedestre;N;S
+5;Portador da arma;N;S
+6;Proprietário da arma;N;S
+7;Proprietário da CNH;N;S
+8;Testemunha;N;S
+9;Lider de Movimento Social;N;S
+10;Proprietário de Veículo;N;S
+11;Proprietário de Carga;N;S
+12;Vítima;N;S
+13;Autor;N;S
+14;Cavaleiro;N;S

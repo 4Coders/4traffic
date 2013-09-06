@@ -1,0 +1,26 @@
+ttncodigo;ttndescricao;ttnatualiza
+1;Escola;N
+10;Ponto relevante - linha férrea;N
+11;Ponto relevante - morro;N
+12;Ponto relevante - rio;N
+13;Ponto relevante - serra;N
+14;Ponto relevante - trevo;N
+15;Ponto relevante - montanha;N
+16;Ponto comercial;N
+17;Ponto de alimentação;N
+18;Ponto de pedágio e pesagem;N
+19;Ponto de turismo e lazer;N
+2;Fazenda e chácara;N
+20;Posto de combustível;N
+21;Telefone público;N
+22;Vila e povoado;N
+3;Hotel e pousada;N
+4;Indústria;N
+5;Parada de ônibus;N
+6;Ponto relevante - acesso irregular;N
+7;Ponto relevante - cruzamento;N
+8;Ponto relevante - curva;N
+9;Ponto relevante - entroncamento;N
+23;Postos de fiscalização;N
+27;Acampamentos;S
+26;Borracharia;S

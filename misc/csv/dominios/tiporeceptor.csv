@@ -1,0 +1,28 @@
+ttrcodigo;ttrdescricao;ttratualiza;ttrdelegacia
+1;Clínica psiquiátrica;N;(null)
+2;Corpo de Bombeiros;N;(null)
+3;Detentor do documento;N;(null)
+4;Detran;N;(null)
+5;Funai;N;(null)
+6;Hospital;N;(null)
+7;Ibama;N;(null)
+8;Juizado de infância e juventude;N;(null)
+9;Poder judiciário;N;(null)
+10;Polícia civil;N;(null)
+11;Polícia federal;N;(null)
+12;Proprietário;N;(null)
+13;Receita estadual;N;(null)
+14;Receita federal;N;(null)
+15;Residência;N;(null)
+16;Serviço social;N;(null)
+17;Unidade militar;N;(null)
+18;Zoológico;N;(null)
+22;IML/DML;S;N
+23;Posto PRF;S;N
+24;Seguradora;S;N
+25;Condutor Habilitado;S;N
+26;Depósito Credenciado;S;N
+27;Bombeiro Voluntário;S;N
+28;Terceiros;S;N
+29;SAMU;S;N
+30;Conselho Tutelar;N;(null)

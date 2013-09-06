@@ -1,0 +1,28 @@
+tvvcodigo;tvvdescricao;tvvatualiza;tvvrelacidente;tvvativo
+1;Bicicleta;N;(null);S
+2;Ciclomotor;N;(null);S
+3;Motoneta;N;(null);S
+4;Motocicletas;N;(null);S
+5;Triciclo;N;(null);S
+6;Quadriciclo;N;(null);S
+7;Automóvel;N;(null);S
+8;Microônibus;N;(null);S
+9;Ônibus;N;(null);S
+10;Bonde / Trem;N;(null);S
+11;Reboque ou semi-reboque;N;(null);N
+12;Charrete;N;(null);S
+13;Caminhão;N;(null);S
+14;Carroça;N;(null);S
+15;Carro-de-mao;N;(null);S
+16;Caminhonete;N;(null);S
+17;Utilitário;N;(null);S
+18;Caminhão-Trator;N;(null);S
+19;Trator de rodas;N;(null);S
+20;Trator de esteiras;N;(null);S
+21;Trator misto;N;(null);S
+22;Não identificado;S;S;S
+23;Camioneta;S;N;S
+24;Side-car;N; ;S
+25;Caminhão-Tanque;N; ;S
+26;Reboque;N; ;S
+27;Semi-Reboque;N; ;S
